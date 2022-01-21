@@ -124,3 +124,8 @@ p {
 #activity #contents .info-ui > img {
   display: block;
 }
+
+#activity #contents article {
+  display: flex;
+  justify-content: space-between;
+}
